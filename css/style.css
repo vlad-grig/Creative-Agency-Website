@@ -75,7 +75,7 @@ section.home{
     width: 40px;
     height: 40px;
     background: var(--primary-color) url(../images/home-menu.png);
-    background-size: 40px;
+    background-size: 25px;
     background-repeat: no-repeat;
     background-position: center;
     z-index: 20;
